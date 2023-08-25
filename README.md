@@ -1,6 +1,6 @@
-# CodeClause_Online_Music_Streaming_Application
+# Online-Music-Streaming-Application
 
-Project I made for my Web Developer Internship at CodeClause.
+This is the project I made for my Web Developer Internship at CodeClause.
 
 Languages: HTML, CSS, JavaScript
 
